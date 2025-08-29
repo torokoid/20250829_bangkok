@@ -347,7 +347,7 @@ p.note { display: none; }
 
     
 <br><br>
-<h2><span class="yellow">8月17日にメタバースで披露されたまいてゃさんの新曲「Lonely game」</span></h2>
+<h2><span class="yellow">8月27日にメタバースで披露されたまいてゃさんの新曲「Lonely game」</span></h2>
 <div class="youtube-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HstFJ2_8oQA?si=QrYNv_EcIm7fALkV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
